@@ -1,0 +1,15 @@
+*.log
+
+*.txt
+*.root
+*.csv
+*.tsv
+*.tfr
+
+*.png
+*.bmp
+*.jpg
+*.svg
+
+*.pyc
+*__pycache__*
